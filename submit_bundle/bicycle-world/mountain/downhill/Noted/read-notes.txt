@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+echo "oh hey there, i am glad you made it here, please be sure to wear your helmetwhile biking down the road."
